@@ -1,0 +1,29 @@
+
+
+
+tbody td, th {
+	border: 1px solid white;
+	width: 120px;
+	
+}
+
+
+
+#Breakfast td {
+	border-top: #0f0;
+}
+
+
+tr {
+	background-color: gray ;
+	transition: background-color 2s;
+}
+
+
+
+table{
+	font-family: verdana;
+	border:1px solid #000;
+	*border-collapse: collapse;
+	border-spacing: 0;
+}	
